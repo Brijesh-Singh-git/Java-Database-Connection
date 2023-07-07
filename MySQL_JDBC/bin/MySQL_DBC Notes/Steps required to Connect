@@ -1,0 +1,20 @@
+	Applicable for Insert,Update, Delete
+
+	1. Create a Connection 
+	2. Create statement/Query
+	3. Execute statement/Query
+	4. Close conenction
+	
+	
+	
+	If we use Select Command then we have to use additional Step
+
+	1. Create a Connection 
+	2. Create statement/Query
+	3. Execute statement/Query
+	4. Store the results in result set
+	5. Close conenction
+	
+	
+	To create a connection ---->
+	

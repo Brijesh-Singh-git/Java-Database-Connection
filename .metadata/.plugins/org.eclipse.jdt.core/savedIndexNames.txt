@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+G:\INFOSYS Lectures & Codes\JAVA DBC\.metadata\.plugins\org.eclipse.jdt.core
+3309539723.index
+471147346.index
+3580364587.index
+1865797976.index
